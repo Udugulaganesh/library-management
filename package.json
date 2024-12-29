@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "jsdom": "^25.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0"
+  }
+}
